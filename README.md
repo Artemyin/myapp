@@ -1,3 +1,5 @@
+
+Base django project
 # Developing Django on Repl.it
 
 - Fork this template to get started
